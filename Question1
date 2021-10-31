@@ -1,0 +1,13 @@
+Q1. WAP to input (nxn) numbers in DDA and find the sum of even numbers.
+
+import java.utl.*;
+class sume
+{
+ public static void main()
+ {
+  int n,i,j,sum=0;
+  Scanner in=new Scanner(System.in);
+  System.out.println("Enter size of array");
+  n=in.nextInt();
+  int d[][]=new int[n][n];
+  Sysytem.out.println("Enter "+(n*n))
