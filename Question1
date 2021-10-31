@@ -10,4 +10,4 @@ class sume
   System.out.println("Enter size of array");
   n=in.nextInt();
   int d[][]=new int[n][n];
-  Sysytem.out.println("Enter "+(n*n))
+  Sysytem.out.println("Enter "+(n*n)+)
